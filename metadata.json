@@ -1,0 +1,6 @@
+{
+  "name": "SkillSwap",
+  "description": "A peer-to-peer learning marketplace where users teach skills to earn SkillCoins to swap knowledge in scheduled sessions, with smart matching tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
