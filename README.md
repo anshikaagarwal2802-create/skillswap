@@ -269,7 +269,7 @@ SkillSwap AI aims to:
 ##  Vision
 
 To build the world's largest community-powered learning ecosystem where knowledge is exchanged, not sold, and every learner has the opportunity to become a teacher.
-## LIVE DEMO:
+## PROTOTYPE:
 https://skillswap-two-rosy.vercel.app/
 
 ##  Screenshots
